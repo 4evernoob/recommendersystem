@@ -64,7 +64,7 @@ reg=9
 #lenguaje not implemented
 leng='Inglés'
 #configuration
-token= 'DDYJc2c725'
+token= 'aqui el token '
 #number of samples
 number= 400
 ##extract data
